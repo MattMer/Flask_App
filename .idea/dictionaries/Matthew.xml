@@ -2,13 +2,17 @@
   <dictionary name="Matthew">
     <words>
       <w>asctime</w>
+      <w>dest</w>
+      <w>elif</w>
       <w>endblock</w>
       <w>endfor</w>
+      <w>endset</w>
       <w>endwith</w>
       <w>identicon</w>
       <w>levelname</w>
       <w>microblog</w>
       <w>navbar</w>
+      <w>pybabel</w>
       <w>sqlalchemy</w>
       <w>unfollow</w>
     </words>
